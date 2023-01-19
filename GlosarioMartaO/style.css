@@ -85,7 +85,7 @@ header{
 }
 .mostrar-menu,
 .esconder-menu{
-  font-size: 10px;
+  font-size: 11px;
   cursor: pointer;
   display: none;
   transition: 0.4s;
